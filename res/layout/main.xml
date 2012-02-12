@@ -8,9 +8,9 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/hello" />
-
+
     <TimePicker
-        android:id="@+id/timePicker1"
+        android:id="@+id/timePicker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
